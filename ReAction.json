@@ -1,17 +1,26 @@
-﻿{
-  "Author": "UnknownX",
-  "Name": "ReAction Modded",
-  "Punchline": "QoL for the battle system.",
-  "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-  "IconUrl": "",
-  "ImageUrls": [
-    ""
-  ],
-  "RepoUrl": "https://github.com/UnknownX7/ReAction",
-  "CategoryTags": [
-    "jobs"
-  ],
-  "InternalName": "ReAction",
-  "AssemblyVersion": "9.9.9.9",
-  "Changelog": ""
-}
+{
+        "Author": "UnknownX",
+        "Name": "ReAction Modded",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.1.6.6",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 7,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1668313991"
+    
